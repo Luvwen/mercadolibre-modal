@@ -1,6 +1,7 @@
 import { Button, Divider, HStack, Link, Stack, Text } from '@chakra-ui/react';
 import { BagCard } from './BagCard';
 import { Navbar } from './Navbar/Navbar';
+
 import { ProductCard } from './ProductCard';
 
 export const Productos = () => {
