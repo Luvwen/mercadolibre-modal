@@ -11,7 +11,7 @@ export const ProductCard = () => {
         >
             <Box
                 alignItems="center"
-                bg="#DFD8D7"
+                bg="#F2EAE9"
                 borderRadius="6px 6px 0 0"
                 display="flex"
                 height="9vh"

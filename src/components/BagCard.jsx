@@ -6,7 +6,8 @@ export const BagCard = () => {
         <Stack
             alignItems="center"
             bg="primary"
-            borderRadius="6px"
+            borderRadius="10px"
+            boxShadow="0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)"
             direction="row"
             height="25vh"
             m="25px auto 0"
