@@ -1,5 +1,7 @@
+import { Productos } from './components/Productos';
+
 function App() {
-    return <div>Hola mundo</div>;
+    return <Productos />;
 }
 
 export default App;
